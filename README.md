@@ -7,7 +7,7 @@ computations.
 I wrote this to build a big [Lunr.js](https://github.com/olivernn/lunr.js) search index without
 blocking the UI and without using WebWorkers.
 
-```
+```javascript
 var forEachBatch = require('foreach-batch');
 
 // Process everything at once - will possibly block the UI
