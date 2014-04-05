@@ -1,6 +1,8 @@
 foreach-batch
 =============
 
+[![Build Status](https://travis-ci.org/odsod/foreach-batch.svg)](https://travis-ci.org/odsod/foreach-batch)
+
 A simple combinator for deferred batch processing to keep the UI responsive under long-running
 computations.
 
