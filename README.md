@@ -30,3 +30,10 @@ forEachBatch(stuff, someExpensiveFunction, 10, function(progress) {
   console.log(progress); // ...and we can keep track of our progress
 }, 1000); // ...and we can control how long to wait between batches
 ```
+
+Installation
+------------
+
+```
+npm install foreach-batch
+```
