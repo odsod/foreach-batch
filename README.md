@@ -8,7 +8,7 @@ Syntax
 ------
 
 ```
-forEach(arr, callback, batchSize[, progressCallback])
+forEach(arr, callback, batchSize[, progressCallback[, timeoutDelay])
 ```
 
 Description
