@@ -1,5 +1,5 @@
-foreach-batch
-=============
+forEachBatch
+============
 
 [![Build Status](https://travis-ci.org/odsod/foreach-batch.svg)](https://travis-ci.org/odsod/foreach-batch)
 
